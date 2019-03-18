@@ -1,4 +1,4 @@
-# designessentials
+# Essential Elements of Everyday Design
 Essential notes, thoughts, and examples for good (graphic) design
 
 I've always been interested in good design. Websites, books, notebooks, billboards, reference texts, resumes, everyone wants to come off as practical, professional, and *interesting*. Here, design will be categorized into one of the following:
